@@ -1,0 +1,66 @@
+body{
+
+    background-image: url("med.jpg");
+    background-size: 100%;
+
+}
+b{
+    color: white;
+}
+#login-name{
+
+    font-size: 80px;
+    font-family: "Arabic Typesetting";
+    border-bottom-style:ridge ;
+}
+#login{
+    background-color: #004D40;
+    min-height: 400px;
+    min-width: 600px;
+   opacity: 0.6;
+   /* background-color: rgba(0,0,0,.75);*/
+    padding: 35px 100px 35px 35px;
+    border-radius: 30px;
+    margin-left: 250px;
+    margin-right:250px;
+}
+.idn{
+    font-family: "Arabic Typesetting";
+    font-size: 40px;
+    color: white;
+
+}
+.form-group{
+    text-align: center;
+ }   
+.form-control{
+    border-radius: 0px;
+    height: 40px;
+}
+#user{
+    border-radius: 0px;
+    height: 40px;
+    color: black;
+}
+#password{
+    border-radius: 0px;
+    height: 40px;
+    color: black;
+}
+/*.aa{
+    align-content: center;
+    text-underline-mode: none;
+}*/
+
+
+.btn{
+    width: 400px;
+    height: 40px;
+    margin: 10px;
+    margin-left: 60px;
+    border-style: solid;
+
+}
+
+
+

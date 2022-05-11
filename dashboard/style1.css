@@ -1,0 +1,8 @@
+body{
+    background-image: url("co.jpg");
+        background-repeat:no-repeat;
+        background-attachment: fixed;
+        
+        background-size: 1390px;
+        opacity: 1;
+}
